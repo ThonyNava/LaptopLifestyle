@@ -164,7 +164,8 @@ a svg:hover #linkedin,
 a svg:hover #reddit,
 a svg:hover #facebook,
 a svg:hover #medium,
-a svg:hover #spotify{ 
+a svg:hover #spotify,
+a svg:hover #telegram{ 
 fill: #A7A9AC;
 fill-opacity: 1;
 } 
